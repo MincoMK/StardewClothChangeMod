@@ -68,25 +68,41 @@ namespace StardewTestMod1
                 
                 Monitor.Log("Cloth set changed to " + index, LogLevel.Debug);
 
-                if (Game1.player.hat.Value != null)
+                if (Game1.player.hat.Value == null) 
+                {
+                    info.ClothSets[info.SelectedClothSetIndex].Hat = "";
+                }
+                else
                 {
                     string hatData = ToXmlString(Game1.player.hat.Value);
                     info.ClothSets[info.SelectedClothSetIndex].Hat = hatData;
                 }
                 
-                if (Game1.player.shirtItem.Value != null)
+                if (Game1.player.shirtItem.Value == null) 
+                {
+                    info.ClothSets[info.SelectedClothSetIndex].Shirt = "";
+                }
+                else
                 {
                     string shirtData = ToXmlString(Game1.player.shirtItem.Value);
                     info.ClothSets[info.SelectedClothSetIndex].Shirt = shirtData;
                 }
                 
-                if (Game1.player.pantsItem.Value != null)
+                if (Game1.player.pantsItem.Value == null) 
+                {
+                    info.ClothSets[info.SelectedClothSetIndex].Pants = "";
+                }
+                else
                 {
                     string pantsData = ToXmlString(Game1.player.pantsItem.Value);
                     info.ClothSets[info.SelectedClothSetIndex].Pants = pantsData;
                 }
                 
-                if (Game1.player.boots.Value != null)
+                if (Game1.player.boots.Value == null) 
+                {
+                    info.ClothSets[info.SelectedClothSetIndex].Boots = "";
+                }
+                else
                 {
                     string bootsData = ToXmlString(Game1.player.boots.Value);
                     info.ClothSets[info.SelectedClothSetIndex].Boots = bootsData;
@@ -137,6 +153,8 @@ namespace StardewTestMod1
 
                     Game1.playSound("shwip");
                 }
+                
+                this._clothSets[Game1.player.UniqueMultiplayerID] = info;
             }
         }
 

@@ -6,3 +6,4 @@ F:\VS\StardewTestMod1\StardewTestMod1\obj\Debug\net6.0\StardewTestMod1.AssemblyI
 F:\VS\StardewTestMod1\StardewTestMod1\obj\Debug\net6.0\StardewTestMod1.AssemblyInfo.cs
 F:\VS\StardewTestMod1\StardewTestMod1\obj\Debug\net6.0\StardewTestMod1.csproj.CoreCompileInputs.cache
 F:\VS\StardewTestMod1\StardewTestMod1\obj\Debug\net6.0\StardewTestMod1.dll
+F:\VS\StardewTestMod1\StardewTestMod1\obj\Debug\net6.0\StardewTestMod1.sourcelink.json

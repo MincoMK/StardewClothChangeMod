@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VS\\StardewTestMod1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FB0F3F-B78E-45D3-A6CA-E3A78E0C7B76}|StardewTestMod1\\StardewTestMod1.csproj|f:\\vs\\stardewtestmod1\\stardewtestmod1\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FB0F3F-B78E-45D3-A6CA-E3A78E0C7B76}|StardewTestMod1\\StardewTestMod1.csproj|solutionrelative:stardewtestmod1\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FB0F3F-B78E-45D3-A6CA-E3A78E0C7B76}|StardewTestMod1\\StardewTestMod1.csproj|f:\\vs\\stardewtestmod1\\stardewtestmod1\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1FB0F3F-B78E-45D3-A6CA-E3A78E0C7B76}|StardewTestMod1\\StardewTestMod1.csproj|solutionrelative:stardewtestmod1\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manifest.json",
+              "DocumentMoniker": "F:\\VS\\StardewTestMod1\\StardewTestMod1\\manifest.json",
+              "RelativeDocumentMoniker": "StardewTestMod1\\manifest.json",
+              "ToolTip": "F:\\VS\\StardewTestMod1\\StardewTestMod1\\manifest.json",
+              "RelativeToolTip": "StardewTestMod1\\manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T11:14:26.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModEntry.cs",
+              "DocumentMoniker": "F:\\VS\\StardewTestMod1\\StardewTestMod1\\ModEntry.cs",
+              "RelativeDocumentMoniker": "StardewTestMod1\\ModEntry.cs",
+              "ToolTip": "F:\\VS\\StardewTestMod1\\StardewTestMod1\\ModEntry.cs",
+              "RelativeToolTip": "StardewTestMod1\\ModEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:12:20.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

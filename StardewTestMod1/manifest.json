@@ -1,0 +1,10 @@
+{
+    "Name": "testmod1",
+    "Author": "mincomk",
+    "Version": "1.0.0",
+    "Description": "sionbabo",
+    "UniqueID": "mincomk.testmod1",
+    "EntryDll": "StardewTestMod1.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}

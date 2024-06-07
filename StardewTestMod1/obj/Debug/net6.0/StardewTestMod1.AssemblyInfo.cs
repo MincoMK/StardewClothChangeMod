@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StardewTestMod1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a41b50bc39636d7d8edd0fb2d7084f2e1fca89d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ab0c1783939d05c8c429a7f6cd5924d163a16a")]
 [assembly: System.Reflection.AssemblyProductAttribute("StardewTestMod1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StardewTestMod1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -25,7 +25,6 @@ namespace StardewTestMod1
         {
             // Save data
             var str = ToJsonString(this._clothSets);
-            Monitor.Log("Saved data: " + str, LogLevel.Debug);
             this.Helper.Data.WriteSaveData("cloth-sets", str);
         }
         
@@ -33,7 +32,6 @@ namespace StardewTestMod1
         {
             // Load data
             var data = this.Helper.Data.ReadSaveData<string>("cloth-sets");
-            Monitor.Log("Loaded data: " + data, LogLevel.Debug);
             if (data != null)
             {
                 this._clothSets = FromJsonString<Dictionary<long, PlayerInfo>>(data);
